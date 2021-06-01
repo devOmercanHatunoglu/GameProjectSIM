@@ -1,2 +1,1 @@
 # GameProjectSIM
-kodlama.io
